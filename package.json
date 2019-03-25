@@ -1,13 +1,14 @@
 {
-  "name": "justis-resume",
+  "name": "justisresume",
   "bin": {
-    "<justis-resume>": "./index.js"
+    "<justisresume>": "./index.js"
   },
   "version": "1.0.1",
-  "description": "justis-resume",
+  "description": "justisresume",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
   },
   "author": "",
   "license": "ISC",
