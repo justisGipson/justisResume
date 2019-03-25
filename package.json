@@ -1,7 +1,10 @@
 {
-  "name": "npmresume",
+  "name": "justis-resume",
+  "bin": {
+    "<justis-resume>": "./index.js"
+    },
   "version": "1.0.0",
-  "description": "NPM Resume",
+  "description": "justis-resume",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
