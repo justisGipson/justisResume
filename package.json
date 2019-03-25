@@ -15,5 +15,9 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "inquirer": "^6.2.2"
-  }
+  },
+  "keywords": [
+    "resume",
+    "justis"
+  ]
 }
