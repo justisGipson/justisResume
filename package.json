@@ -1,14 +1,10 @@
 {
-  "name": "justisresume",
-  "bin": {
-    "<justisresume>": "./index.js"
-  },
+  "name": "justis-resume",
   "version": "1.0.2",
-  "description": "justisresume",
+  "description": "justis' resume",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": ""
   },
   "author": "",
   "license": "ISC",
@@ -19,5 +15,8 @@
   "keywords": [
     "resume",
     "justis"
-  ]
+  ],
+  "bin": {
+    "justis-resume": "./index.js"
+  }
 }
