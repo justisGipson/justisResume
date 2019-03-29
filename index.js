@@ -4,19 +4,19 @@
 let inquirer = require('inquirer');
 let chalk = require('chalk');
 
-let response = chalk.bold.green;
+let response = chalk.bold.cyan;
 
 let resume = require('./resume/resume.json');
 
 let resumePrompts = {
     type: 'list',
     name: 'resumeOptions',
-    message: "What would you like to know about me?",
+    message: "Take some time to get to find out more about me.",
     choices: [...Object.keys(resume), "Exit"]
 };
 
 let main = () => {
-    console.log('Hello, my name is Justis Gipson and welcome to my resume.');
+    console.log("Hello, I'm Justis Gipson and welcome. ");
     resumeHandler();
 }
 
