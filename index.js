@@ -11,7 +11,7 @@ let resume = require('./resume/resume.json');
 let resumePrompts = {
     type: 'list',
     name: 'resumeOptions',
-    message: "Take some time to find out more about me.",
+    message: chalk.bold.green("Take some time to find out more about me."),
     choices: [...Object.keys(resume), "Exit"]
 };
 
