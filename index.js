@@ -16,7 +16,7 @@ let resumePrompts = {
 };
 
 let main = () => {
-    console.log("Hello, I'm Justis Gipson and welcome. ");
+    console.log(chalk.bold.green("Hello, I'm Justis Gipson and welcome."));
     resumeHandler();
 }
 
