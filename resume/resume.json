@@ -10,7 +10,7 @@
         "Currently a teaching artist at the Indianapolis Art Center in the Glass studio. Where I teach the public about glass art and how to create it. I have taught there since February 2014.",
         "Georgetown Market, where I was the Deli manager from June 2010 through October 2015, before I left to pursue glass art and teaching full-time."   
     ],
-    "Tech Stack": ["HTML5", "CSS3", "JavaScript", "TypeScript", "NodeJS", "ReactJS", "Angular 7", "Bootstrap", "React.strap", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Python", "SQL", "Firebase", "Heroku", "UI/UX", "Agile Methodologies"],
+    "Tech Stack": ["HTML5", "CSS3", "JavaScript", "TypeScript", "NodeJS", "ReactJS", "Angular 7", "Bootstrap", "React.strap", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Python", "SQL", "Firebase", "Heroku", "UI/UX", "Agile Methodologies", "Currently learning: Vue/Nuxt, Ruby, Jest"],
     "Projects": ["Portfolio: https://justisgipson.com", "gearLocker: http://jg-gear-locker.herokuapp.com", "NASA APOD Search: http://nasa-api-project.firebaseapp.com", "JavaScript Tutorial: http://justisgipson.github.io/javaScriptTutorialWebsite"],
     "Contact": ["justis710@gmail.com", "https://www.linkedin.com/in/justis-gipson-00275216a/", "https://github.com/justisGipson", "(317) 605-4164"]
 }
