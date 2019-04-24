@@ -3,15 +3,19 @@
 
 let inquirer = require('inquirer');
 let chalk = require('chalk');
-let figlet = require('figlet')
+let figlet = require('figlet');
+let clear = require('clear');
+
 
 let response = chalk.bold.cyan;
 
 let resume = require('./resume/resume.json');
 
+clear();
+
 console.log(
   chalk.green(
-    figlet.textSync('Welcome', { horizontalLayout: 'full' })
+    figlet.textSync('Justis Gipson', { horizontalLayout: 'full' })
   )
 );
 
