@@ -3,10 +3,17 @@
 
 let inquirer = require('inquirer');
 let chalk = require('chalk');
+let figlet = require('figlet')
 
 let response = chalk.bold.cyan;
 
 let resume = require('./resume/resume.json');
+
+console.log(
+  chalk.green(
+    figlet.textSync('Welcome', { horizontalLayout: 'full' })
+  )
+);
 
 let resumePrompts = {
     type: 'list',
