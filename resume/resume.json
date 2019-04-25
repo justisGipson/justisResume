@@ -1,16 +1,24 @@
 {
     "About me": [
-        "Avid Backpacker and traveller", "New trail runner", "Teaching Artist for the past 5 years, medium is glass", "Always trying to learn more"
+        "Avid Backpacker and traveller", "New trail runner", "Glass Instructor and glassblower for the last 7 years", "Always trying to learn more"
     ],
+
     "Education": [
-        "Graduated from Eleven Fifty's 12 week JavaScript Boot Camp in Fishers, Indiana. Attended December 4, 2018 through March 1, 2019"
+        "Graduated from Eleven Fifty's 12 week JavaScript Boot Camp in Fishers, Indiana. Attended December 4, 2018 through March 1, 2019. Upon Completion over 500 hours of hands on developing experience had been accrued."
     ],
+
     "Past Experience": [
+        "Software Developer for CoResponsive, a startup located in Nobelsville, IN. Currently working on helping develop their initial product. Creating a web application, and Chrome extension using ReactJS. Will also be using NodeJS eventually on the API.",
+
         "Currently a teaching artist at the Indianapolis Art Center in the Glass studio. Where I teach the public about glass art and how to create it. I have taught there since February 2014. Responsibilities include managing my classroom, keeping students and the public informed about proper safety in the studio, assisting other artists, and keeping up on equipment maintenance.",
         
         "Georgetown Market, where I was the Deli manager from June 2010 through October 2015, before I left to pursue glass art and teaching full-time. Responsibilities included product ordering, managing the front of house and back of house crews, keeping product stocked, and kitchen equipment maintenance."   
     ],
-    "Tech Stack": ["HTML5", "CSS3", "JavaScript", "TypeScript", "NodeJS", "ReactJS", "Angular 7", "Bootstrap", "React.strap", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Github", "Python", "SQL", "Firebase", "Heroku", "UI/UX", "Agile Methodologies", "Slack", "Currently learning: Vue/Nuxt, PHP/Laravel, and Unit Testing with Jest"],
+
+    "Tech Stack": ["HTML5", "CSS3", "JavaScript", "TypeScript", "NodeJS", "ReactJS", "Angular 7", "Bootstrap", "React.strap", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Github", "Python", "SQL", "Firebase", "Heroku", "UI/UX", "Agile Methodologies", "Slack", "* Currently learning: Vue/Nuxt, PHP/Laravel, and Unit Testing with Jest"],
+
     "Projects": ["Portfolio: https://justisgipson.com", "gearLocker: http://jg-gear-locker.herokuapp.com", "NASA APOD Search: http://nasa-api-project.firebaseapp.com", "JavaScript Tutorial: http://justisgipson.github.io/javaScriptTutorialWebsite", "I am also a contributing developer on https://hikerfeed.com/"],
+
     "Contact": ["justis710@gmail.com", "https://www.linkedin.com/in/justis-gipson-00275216a/", "https://github.com/justisGipson", "(317) 605-4164"]
+
 }

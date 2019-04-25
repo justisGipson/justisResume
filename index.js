@@ -7,14 +7,14 @@ let figlet = require('figlet');
 let clear = require('clear');
 
 
-let response = chalk.bold.cyan;
+let response = chalk.bold.cyanBright;
 
 let resume = require('./resume/resume.json');
 
 clear();
 
 console.log(
-  chalk.green(
+  chalk.bold.greenBright(
     figlet.textSync('Justis Gipson', { horizontalLayout: 'full' })
   )
 );
@@ -22,7 +22,7 @@ console.log(
 let resumePrompts = {
     type: 'list',
     name: 'resumeOptions',
-    message: chalk.bold.green("Take some time to find out more about me."),
+    message: chalk.bold.blueBright("Take some time to find out more about me."),
     choices: [...Object.keys(resume), "Exit"]
 };
 
