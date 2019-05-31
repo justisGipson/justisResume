@@ -15,9 +15,15 @@
         "Currently a teaching artist at the Indianapolis Art Center in the Glass studio. Where I teach the public about glass art and how to create it. I have taught there since February 2014. Responsibilities include managing my classroom, keeping students and the public informed about proper safety in the studio, assisting other artists, and keeping up on equipment maintenance."   
     ],
 
-    "Tech Stack": ["HTML5", "CSS3", "JavaScript", "TypeScript", "NodeJS", "ReactJS", "Vue/Nuxt", "PHP", "Laravel", "Angular 7", "Bootstrap", "React.strap", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Github", "Python", "SQL", "Firebase", "Heroku", "UI/UX", "Agile Methodologies", "Slack", "* Currently learning: Vue/Nuxt, PHP/Laravel, and Unit Testing with Jest"],
+    "Tech Stack": [
+        "HTML5", "CSS3", "JavaScript", "TypeScript", "NodeJS", "ReactJS", "Vue/Nuxt", "PHP", "Laravel", "Angular 7", "Bootstrap", "React.strap", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Github", "Python", "SQL", "Firebase", "Heroku", "UI/UX", "Agile Methodologies", "Slack", "* Currently learning: Vue/Nuxt, PHP/Laravel, and Unit Testing with Jest"
+    ],
 
-    "Projects": ["Portfolio: https://justisgipson.com", "gearLocker: http://jg-gear-locker.herokuapp.com", "NASA APOD Search: http://nasa-api-project.firebaseapp.com", "JavaScript Tutorial: http://justisgipson.github.io/javaScriptTutorialWebsite", "I am also a contributing developer on https://hikerfeed.com/"],
+    "Projects": [
+        "Portfolio: https://justisgipson.com", "gearLocker: http://jg-gear-locker.herokuapp.com", "NASA APOD Search: http://nasa-api-project.firebaseapp.com", "JavaScript Tutorial: http://justisgipson.github.io/javaScriptTutorialWebsite", "I am also a contributing developer on https://hikerfeed.com/"
+    ],
 
-    "Contact": ["justis710@gmail.com", "https://www.linkedin.com/in/justis-gipson-00275216a/", "https://github.com/justisGipson", "(317) 605-4164"]
+    "Contact": [
+        "justis710@gmail.com", "https://www.linkedin.com/in/justis-gipson-00275216a/", "https://github.com/justisGipson", "(317) 605-4164"
+    ]
 }
