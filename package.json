@@ -1,6 +1,6 @@
 {
   "name": "justis-resume",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "justis' resume",
   "main": "index.js",
   "scripts": {
