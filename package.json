@@ -14,6 +14,10 @@
     "figlet": "^1.2.3",
     "inquirer": "^6.3.1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justisGipson/justisResume"
+  },
   "keywords": [
     "resume",
     "justis"
