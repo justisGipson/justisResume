@@ -15,7 +15,12 @@ clear();
 
 console.log(
   chalk.bold.greenBright(
-    figlet.textSync('Justis Gipson', { horizontalLayout: 'full' })
+    figlet.textSync('Justis Gipson', 
+        { 
+            horizontalLayout: 'full',
+            font: 'slant', 
+        }
+    )
   )
 );
 
@@ -27,7 +32,7 @@ let resumePrompts = {
 };
 
 let main = () => {
-    console.log(chalk.bold.green("Hello, I'm Justis Gipson and welcome."));
+    console.log(chalk.bold.green("Hello, I'm Justis and welcome."));
     resumeHandler();
 }
 
