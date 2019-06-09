@@ -6,7 +6,6 @@ let chalk = require('chalk');
 let figlet = require('figlet');
 let clear = require('clear');
 
-
 let response = chalk.bold.cyanBright;
 
 let resume = require('./resume/resume.json');
@@ -32,7 +31,7 @@ let resumePrompts = {
 };
 
 let main = () => {
-    console.log(chalk.bold.green("Hello, I'm Justis and welcome."));
+    console.log(chalk.bold.green("JavaScript Developer"));
     resumeHandler();
 }
 
