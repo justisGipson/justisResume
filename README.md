@@ -8,4 +8,7 @@ npm i -g justis-resume
 **run**: 
 justis-resume
 
+Feel free to contact me at justis710@gmail.com
+For issues with this project go to https://github.com/justisGipson/justisResume/issues
+
 Thanks for looking!

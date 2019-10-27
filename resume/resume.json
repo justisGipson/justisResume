@@ -1,10 +1,10 @@
 {
     "About me": [
-        "Avid Backpacker and traveller", "New trail runner", "Glass Instructor and glassblower for the last 7 years", "Always trying to learn more"
+        "Looking for a role where I can strech my knowledge and continue to grow as a developer. \n","Avid Backpacker and traveller \n", "New trail runner \n", "Glass Instructor and glassblower for the last 7 years \n", "Always trying to learn more"
     ],
 
     "Education": [
-        "Graduated from Eleven Fifty's 12 week JavaScript Boot Camp in Fishers, Indiana. Attended December 4, 2018 through March 1, 2019. Upon Completion over 500 hours of hands on developing experience had been accrued."
+        "Graduated from Eleven Fifty's 12 week JavaScript Boot Camp in Fishers, Indiana. Attended December 2018 through March 2019. Upon Completion over 500 hours of hands on developing experience had been accrued. "
     ],
 
     "Past Experience": [
@@ -18,7 +18,7 @@
     ],
 
     "Tech Stack": [
-        "HTML5", "CSS3", "JavaScript", "TypeScript", "NodeJS", "ReactJS", "Vue/Nuxt", "PHP", "Laravel", "Angular 7", "Bootstrap", "React.strap", "Material-UI", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Github", "Python", "SQL", "Firebase", "Heroku", "UI/UX", "Agile Methodologies", "Slack", "* Currently learning: Vue/Nuxt, PHP/Laravel, Svelte, and Unit Testing with Jest"
+        "HTML5", "CSS3", "JavaScript", "TypeScript", "NodeJS", "ReactJS", "Vue/Nuxt", "PHP", "Laravel", "Angular 7", "Bootstrap", "React.strap", "Material-UI", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Github", "Python", "R", "SQL", "MongoDB", "Firebase", "Heroku", "UI/UX", "Agile Methodologies", "Slack", "Docker", "* Currently learning: Vue/Nuxt, PHP/Laravel, Svelte, and Unit Testing with Jest. Also learning how to work with Docker and containers, Virtual Machines (VirtualBox)"
     ],
 
     "Projects": [
