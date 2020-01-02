@@ -8,7 +8,9 @@
     ],
 
     "Past Experience": [
-        "Software Developer for CoResponsive from April 2019 until June 2019, a startup located in Nobelsville, IN. Currently working on developing their initial product. Creating a web application, and Chrome extension using ReactJS. Will also be using NodeJS eventually on the API. \n",
+        "Associate Software Engineer for Zylo. Started working there in January 2019. Worked on the continuing development of their SaaS product. The product assists companies with managing their SaaS subscriptions and software licenses. Used ReactJS, NodeJS. \n",
+
+        "Software Developer for CoResponsive from April 2019 until June 2019, a startup located in Nobelsville, IN. Worked on developing their initial product, which was a SaaS product to help financial institutions manage risk assessments. Also created a Chrome extension to use in conjunction with the web app. Used ReactJS and AWS services (Cognito, Amplify, S3). \n",
 
         "Software Engineer for https://HikerFeed.com from March 2019 to present. Which is an online resource for hikers to get information about towns and resources available on long-distance trails around the country. Also provides them a way to connect and stay connected when life on trail ends. The web app was built with Vue/Nuxt on the front end and PHP/Laravel on the backend.\n",
 
