@@ -31,7 +31,7 @@ const resumePrompts = {
 };
 
 const main = () => {
-    console.log(chalk.bold.green("JavaScript Developer"));
+    console.log(chalk.bold.green("Software Engineer | Web Developer"));
     resumeHandler();
 }
 
