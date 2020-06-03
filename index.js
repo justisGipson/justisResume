@@ -1,14 +1,14 @@
 #!/usr/bin/env node
 "use strict";
 
-let inquirer = require('inquirer');
-let chalk = require('chalk');
-let figlet = require('figlet');
-let clear = require('clear');
+const inquirer = require('inquirer');
+const chalk = require('chalk');
+const figlet = require('figlet');
+const clear = require('clear');
 
-let response = chalk.bold.cyanBright;
+const response = chalk.bold.cyanBright;
 
-let resume = require('./resume/resume.json');
+const resume = require('./resume/resume.json');
 
 clear();
 
@@ -23,19 +23,19 @@ console.log(
   )
 );
 
-let resumePrompts = {
+const resumePrompts = {
     type: 'list',
     name: 'resumeOptions',
     message: chalk.bold.blueBright("Take some time to find out more about me."),
     choices: [...Object.keys(resume), "Exit"]
 };
 
-let main = () => {
+const main = () => {
     console.log(chalk.bold.green("JavaScript Developer"));
     resumeHandler();
 }
 
-let resumeHandler = () => {
+const resumeHandler = () => {
     inquirer.prompt(resumePrompts).then(answer => {
         if (answer.resumeOptions == 'Exit') {
             return;
