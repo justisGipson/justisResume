@@ -8,17 +8,19 @@
     ],
 
     "Experience": [
+        "Developer for Codelicious. Took over development of their internal tool to build a deliver CS curriculum to K-12 schools. Use React, GCP, Cloud Functions, CircleCI. \n",
+        
         "Associate Software Engineer for Zylo from January 2020 until April 2020. Worked on the continuing development of their SaaS product. The product helped companies manage their SaaS subscriptions and software licenses. Used ReactJS, NodeJS. \n",
 
         "Software Developer for CoResponsive from April 2019 until June 2019, a startup located in Nobelsville, IN. Worked on developing their initial product, which was a SaaS product to help financial institutions manage risk assessments. Also created a Chrome extension to use in conjunction with the web app. Used ReactJS and AWS services (Cognito, Amplify, S3). \n",
 
-        "Software Engineer for https://HikerFeed.com from March 2019 to present. Which is an online resource for hikers to get information about towns and resources available on long-distance trails around the country. Also provides them a way to connect and stay connected when life on trail ends. The web app was built with Vue/Nuxt on the front end and PHP/Laravel on the backend.\n",
+        "Software Engineer for https://HikerFeed.com from March 2019 to October 2019. Which is an online resource for hikers to get information about towns and resources available on long-distance trails around the country. Also provides them a way to connect and stay connected when life on trail ends. The web app was built with Vue/Nuxt on the front end and PHP/Laravel on the backend.\n",
 
         "Teaching artist at the Indianapolis Art Center in the Glass studio. Where I teach the public about glass art and how to create it. I have taught there since February 2014. Responsibilities include managing my classroom, keeping students and the public informed about proper safety in the studio, assisting other artists, and keeping up on equipment maintenance.\n"
     ],
 
     "Tech Stack": [
-        "HTML5", "CSS3", "JavaScript", "TypeScript", "NodeJS", "ReactJS", "Vue/Nuxt", "PHP", "Laravel", "Angular 7", "Bootstrap", "React.strap", "Material-UI", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Github", "Python", "R", "SQL", "MongoDB", "Firebase", "Heroku", "UI/UX", "Agile", "Slack", "Docker", "* Currently learning: GoLang. Also learning how to work with Docker and containers, Virtual Machines (VirtualBox), and orchestration tools"
+        "HTML5", "CSS3", "JavaScript", "NodeJS", "Python", "ReactJS", "Vue/Nuxt", "Bootstrap", "Material-UI", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Github", "SQL", "MongoDB", "Firebase", "Heroku", "UI/UX", "Agile", "Slack", "Docker", "* Currently learning: GoLang and Rust. Also learning how to work with Docker and containers, Virtual Machines (VirtualBox), and orchestration tools"
     ],
 
     "Projects": [
