@@ -22,7 +22,7 @@
     ],
 
     "Tech Stack": [
-        "HTML5", "CSS3", "JavaScript", "NodeJS", "Python", "ReactJS", "Vue/Nuxt", "Bootstrap", "Material-UI", "Sequelize", "Express", "PostgresQL", "Postman", "Git", "Github", "SQL", "MongoDB", "Firebase", "Heroku", "UI/UX", "Agile", "Slack", "Docker", "* Currently learning: GoLang and Rust. Also learning how to work with Docker and containers, Virtual Machines (VirtualBox), and orchestration tools"
+        "NodeJS", "Python", "ReactJS", "Express", "PostgresQL", "Git", "Github", "SQL", "MongoDB", "GCP", "Bash", "Docker", "* Currently learning: GoLang and Rust. Also learning how to work with Docker and containers, Virtual Machines, and orchestration tools"
     ],
 
     "Projects": [
